@@ -1,0 +1,30 @@
+Urban Company Home Services
+
+Urban Company is a technology platform that connects customers with trained service professionals for home and personal services.
+
+Home Cleaning:
+Urban Company provides several home cleaning services including bathroom cleaning, kitchen cleaning, full home cleaning, sofa cleaning, carpet cleaning, and specialized cleaning services. Customers can select a service and schedule a convenient time.
+
+Beauty Services:
+Customers can book beauty and wellness services at home. These may include salon services, hair care, skin care, manicure, pedicure, waxing, and makeup services.
+
+Repair Services:
+Customers can book repair and maintenance services for appliances and household equipment. Common categories include AC repair, washing machine repair, refrigerator repair, RO service, and electrical services.
+
+AC Services:
+AC services can include AC cleaning, AC repair, AC installation, AC uninstallation, and gas-related services. Customers should provide the appliance details and select a suitable appointment slot.
+
+Service Booking:
+A customer generally selects a service category, chooses the required service, provides the location, selects an available appointment slot, and confirms the booking.
+
+Customer Support:
+Customers may contact support when they have problems with a booking, payment, cancellation, rescheduling, or service quality.
+
+Cancellation:
+Customers should check the cancellation policy applicable to their selected service before cancelling a booking. Cancellation charges may depend on the service and timing.
+
+Safety:
+Customers should verify service details and appointment information before confirming a booking. Service professionals are expected to follow applicable safety and service guidelines.
+
+RAG Question Answering:
+A Retrieval-Augmented Generation system can use this document as a knowledge source. When a customer asks a question, the system retrieves relevant sections from the document and provides the retrieved context to a language model. The language model then generates an answer based on the available information.
